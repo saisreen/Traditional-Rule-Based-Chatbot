@@ -144,13 +144,7 @@ Through this project, I learned:
 
 ## Author
 
-Student Name: Sai Sree Narla
-
-Course: MSAI-631 – Artificial Intelligence for Human-Computer Interaction
-
-University of the Cumberlands
-
-Summer 2026
+Student Name: Sai Sree 
 
 ---
 
