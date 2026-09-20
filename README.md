@@ -144,10 +144,10 @@ Through this project, I learned:
 
 ## Author
 
-Student Name: Sai Sree 
+Sai Sree 
 
 ---
 
 ## License
 
-This project was created for educational purposes as part of a university course assignment.
+This project was created by Sai Sree 
